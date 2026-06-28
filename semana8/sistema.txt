@@ -1,0 +1,7 @@
+No exponer datos personales.
+Proteger credenciales.
+Usar conexiones seguras.
+Registrar accesos.
+Limitar acceso a información sensible.
+Qué información muestra cada comando.
+Por qué es útil conocer información del sistema cuando se administra un servidor.
